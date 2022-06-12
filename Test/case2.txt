@@ -1,0 +1,19 @@
+# The scene contains one line segment obstacle.
+1
+
+# each line of obstacle consists of pairs of (x, y) of consecutive points.
+28.618 101.773 80.400 37.895
+
+# the coordinates of the starting point
+s: 2.000 12.768
+
+# the coordinates of the target point.
+t: 144.898 157.605
+
+#different values of alpha for this test case
+alpha1: 80
+alpha2: 40
+alpha3: 20
+alpha4: 10
+
+l: 50

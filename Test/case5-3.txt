@@ -1,0 +1,15 @@
+# The scene contains one line segment obstacle.
+1
+
+# each line of obstacle consists of pairs of (x, y) of consecutive points.
+38.828 77.119 73.413 42.439
+
+# the coordinates of the starting point
+s: 15.605 9.122
+
+# the coordinates of the target point.
+t: 112.951 106.479
+
+alpha: 30
+
+l: 50

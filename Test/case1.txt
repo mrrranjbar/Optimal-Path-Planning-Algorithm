@@ -1,0 +1,19 @@
+# The scene contains one obstacle surrounding s and t.
+1
+
+# each line of obstacle consists of pairs of (x, y) of consecutive points.
+74.188 509.438 222.845 512.157 219.528 652.830 398.734 654.821 282.563 453.158 621.533 338.367 872.179 490.022 1081.605 273.523 771.881 188.618 879.155 442.442 854.591 462.654 620.779 264.356 624.574 44.690 1150.763 42.117 1152.553 529.206 871.374 534.188 836.567 608.464 642.284 590.932 571.064 496.202 568.011 812.306 77.315 818.986
+
+# the coordinates of the starting point
+s: 114.103 583.489
+
+# the coordinates of the target points. this test case contains 5 target points.
+t1: 478.786 466.068
+t2: 749.487 549.175
+t3: 956.574 421.235
+t4: 873.719 203.467
+t5: 855.143 441.222
+
+alpha: 30
+
+l: 50
