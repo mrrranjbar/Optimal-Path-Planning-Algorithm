@@ -1,19 +1,11 @@
-# The scene contains one line segment obstacle.
-1
-
-# each line of obstacle consists of pairs of (x, y) of consecutive points.
-44.784 126.772 99.995 72.185
-
-# the coordinates of the starting point
-s: 12.220 22.667
-
-# the coordinates of the target point. this test case contains 5 target points.
-t: 161.069 172.827
-
-alpha: 30
-
-#different values of leg lengths for this test case
-l1: 40
-l2: 20
-l3: 10
-l4: 5
+74
+85
+178
+279
+298
+143
+ring
+target
+440
+549
+END

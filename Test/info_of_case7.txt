@@ -1,3 +1,5 @@
+
+
 # The scene contains 9 polygon obstacles.
 9
 
